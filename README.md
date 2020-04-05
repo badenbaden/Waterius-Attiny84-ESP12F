@@ -1,5 +1,7 @@
 ### Альтернативная схемотехника автономного устройства для передачи показаний воды по Wi-Fi - Ватериус.
 
+<img src="https://github.com/badenbaden/Waterius-Attiny84-ESP12F/blob/master/Visualization/abb-ap9-3.jpg" data-canonical-src="https://github.com/badenbaden/Waterius-Attiny84-ESP12F/blob/master/Visualization/abb-ap9-3.jpg" width="400"/>
+
 
 [Оригинальная версия, взятая за основу](https://github.com/dontsovcmc/waterius/)
 [Обсуждение данной версии, испытания, симуляции и т.д.](https://github.com/dontsovcmc/waterius/issues/128)
