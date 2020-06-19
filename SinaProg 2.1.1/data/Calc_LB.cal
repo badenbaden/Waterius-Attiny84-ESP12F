@@ -1,0 +1,546 @@
+AT90CAN128	0x03	0x03	Mode 1: Нет защиты памяти
+AT90CAN128	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+AT90CAN128	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+AT90CAN128	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+AT90CAN128	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+AT90CAN128	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+AT90CAN128	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+AT90CAN128	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+AT90CAN128	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+AT90CAN128	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+AT90CAN128	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+AT90CAN32	0x03	0x03	Mode 1: Нет защиты памяти
+AT90CAN32	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+AT90CAN32	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+AT90CAN32	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+AT90CAN32	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+AT90CAN32	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+AT90CAN32	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+AT90CAN32	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+AT90CAN32	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+AT90CAN32	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+AT90CAN32	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+AT90CAN64	0x03	0x03	Mode 1: Нет защиты памяти
+AT90CAN64	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+AT90CAN64	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+AT90CAN64	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+AT90CAN64	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+AT90CAN64	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+AT90CAN64	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+AT90CAN64	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+AT90CAN64	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+AT90CAN64	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+AT90CAN64	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+AT90PWM2	0x03	0x03	Mode 1: Нет защиты памяти
+AT90PWM2	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+AT90PWM2	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+AT90PWM2	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+AT90PWM2	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+AT90PWM2	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+AT90PWM2	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+AT90PWM2	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+AT90PWM2	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+AT90PWM2	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+AT90PWM2	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+AT90PWM2B	0x03	0x03	Mode 1: Нет защиты памяти
+AT90PWM2B	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+AT90PWM2B	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+AT90PWM2B	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+AT90PWM2B	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+AT90PWM2B	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+AT90PWM2B	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+AT90PWM2B	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+AT90PWM2B	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+AT90PWM2B	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+AT90PWM2B	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+AT90PWM3	0x03	0x03	Mode 1: Нет защиты памяти
+AT90PWM3	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+AT90PWM3	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+AT90PWM3	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+AT90PWM3	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+AT90PWM3	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+AT90PWM3	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+AT90PWM3	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+AT90PWM3	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+AT90PWM3	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+AT90PWM3	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+AT90PWM3B	0x03	0x03	Mode 1: Нет защиты памяти
+AT90PWM3B	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+AT90PWM3B	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+AT90PWM3B	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+AT90PWM3B	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+AT90PWM3B	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+AT90PWM3B	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+AT90PWM3B	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+AT90PWM3B	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+AT90PWM3B	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+AT90PWM3B	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+AT90USB1286	0x03	0x03	Mode 1: Нет защиты памяти
+AT90USB1286	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+AT90USB1286	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+AT90USB1286	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+AT90USB1286	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+AT90USB1286	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+AT90USB1286	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+AT90USB1286	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+AT90USB1286	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+AT90USB1286	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+AT90USB1286	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+AT90USB1287	0x03	0x03	Mode 1: Нет защиты памяти
+AT90USB1287	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+AT90USB1287	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+AT90USB1287	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+AT90USB1287	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+AT90USB1287	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+AT90USB1287	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+AT90USB1287	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+AT90USB1287	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+AT90USB1287	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+AT90USB1287	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+AT90USB162	0x03	0x03	Mode 1: Нет защиты памяти
+AT90USB162	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+AT90USB162	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+AT90USB162	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+AT90USB162	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+AT90USB162	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+AT90USB162	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+AT90USB162	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+AT90USB162	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+AT90USB162	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+AT90USB162	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+AT90USB646	0x03	0x03	Mode 1: Нет защиты памяти
+AT90USB646	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+AT90USB646	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+AT90USB646	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+AT90USB646	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+AT90USB646	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+AT90USB646	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+AT90USB646	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+AT90USB646	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+AT90USB646	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+AT90USB646	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+AT90USB647	0x03	0x03	Mode 1: Нет защиты памяти
+AT90USB647	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+AT90USB647	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+AT90USB647	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+AT90USB647	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+AT90USB647	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+AT90USB647	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+AT90USB647	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+AT90USB647	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+AT90USB647	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+AT90USB647	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega103	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega103	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega103	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega103	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega103	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega103	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega103	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega103	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega103	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega103	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega103	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega128	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega128	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega128	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega128	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega128	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega128	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega128	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega128	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega128	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega128	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega128	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega1280	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega1280	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega1280	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega1280	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega1280	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega1280	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega1280	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega1280	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega1280	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega1280	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega1280	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega1281	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega1281	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega1281	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega1281	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega1281	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega1281	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega1281	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega1281	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega1281	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega1281	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega1281	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega16	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega16	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega16	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega16	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega16	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega16	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega16	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega16	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega16	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega16	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega16	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega161	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega161	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega161	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega161	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega161	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega161	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega161	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega161	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega161	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega161	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega161	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega162	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega162	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega162	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega162	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega162	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega162	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega162	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega162	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega162	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega162	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega162	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega163	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega163	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega163	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega163	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega163	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega163	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega163	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega163	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega163	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega163	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega163	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega164P	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega164P	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega164P	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega164P	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega164P	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega164P	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega164P	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega164P	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega164P	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega164P	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega164P	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega168	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega168	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega168	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega168	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega168	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega168	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega168	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega168	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega168	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega168	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega168	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega169	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega169	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega169	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega169	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega169	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega169	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega169	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega169	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega169	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega169	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega169	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega2560	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega2560	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega2560	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega2560	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega2560	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega2560	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega2560	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega2560	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega2560	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega2560	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega2560	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega2561	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega2561	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega2561	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega2561	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega2561	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega2561	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega2561	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega2561	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega2561	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega2561	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega2561	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega32	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega32	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega32	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega32	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega32	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega32	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega32	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega32	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega32	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega32	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega32	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega324P	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega324P	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega324P	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega324P	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega324P	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega324P	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega324P	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega324P	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega324P	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega324P	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega324P	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega325	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega325	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega325	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega325	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega325	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega325	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega325	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega325	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega325	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega325	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega325	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega3250	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega3250	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega3250	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega3250	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega3250	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega3250	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega3250	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega3250	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega3250	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega3250	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega3250	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega329	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega329	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega329	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega329	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega329	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega329	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega329	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega329	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega329	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega329	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega329	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega3290	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega3290	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega3290	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega3290	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega3290	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega3290	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega3290	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega3290	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega3290	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega3290	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega3290	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega3290P	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega3290P	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega3290P	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega3290P	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega3290P	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega3290P	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega3290P	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega3290P	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega3290P	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega3290P	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega3290P	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega329P	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega329P	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega329P	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega329P	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega329P	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega329P	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega329P	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega329P	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega329P	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega329P	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega329P	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega48	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega48	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega48	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega64	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega64	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega64	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega64	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega64	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega64	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega64	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega64	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega64	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega64	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega64	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega640	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega640	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega640	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega640	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega640	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega640	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega640	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega640	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega640	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega640	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega640	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega644	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega644	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega644	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega644	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega644	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega644	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega644	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega644	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega644	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega644	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega644	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega644P	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega644P	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega644P	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega644P	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega644P	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega644P	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega644P	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega644P	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega644P	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega644P	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega644P	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega645	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega645	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega645	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega645	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega645	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega645	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega645	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega645	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega645	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega645	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega645	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega6450	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega6450	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega6450	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega6450	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega6450	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega6450	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega6450	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega6450	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega6450	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega6450	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega6450	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega649	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega649	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega649	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega649	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega649	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega649	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega649	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega649	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega649	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega649	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega649	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega6490	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega6490	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega6490	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega6490	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega6490	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega6490	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega6490	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega6490	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega6490	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega6490	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega6490	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega8	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega8	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega8	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega8	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega8	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega8	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega8	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega8	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega8	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega8	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega8	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega8515	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega8515	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega8515	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega8515	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega8515	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega8515	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega8515	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega8515	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega8515	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega8515	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega8515	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega8535	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega8535	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega8535	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega8535	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega8535	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega8535	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega8535	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega8535	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega8535	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega8535	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega8535	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATmega88	0x03	0x03	Mode 1: Нет защиты памяти
+ATmega88	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATmega88	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATmega88	0x0c	0x0c	Защита программы Mode 1: Нет блокировки SPM и LPM в области программы
+ATmega88	0x0c	0x08	Защита программы Mode 2: SPM запрещено в области программы
+ATmega88	0x0c	0x00	Защита программы Mode 3: LPM и SPM запрещено в области программы
+ATmega88	0x0c	0x04	Защита программы Mode 4: LPM запрещено в области программы
+ATmega88	0x30	0x30	Защита Boot Loader Mode 1: Нет блокировки SPM и LPM в области Boot Loader
+ATmega88	0x30	0x20	Защита Boot Loader Mode 2: SPM запрещено в области Boot Loader
+ATmega88	0x30	0x00	Защита Boot Loader Mode 3: LPM и SPM запрещено в области Boot Loader
+ATmega88	0x30	0x10	Защита Boot Loader Mode 4: LPM запрещено в области Boot Loader
+ATtiny11	0x06	0x06	Mode 1: Нет защиты памяти
+ATtiny11	0x06	0x04	Mode 2: Дальнейшее программирование запрещено
+ATtiny11	0x06	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATtiny12	0x06	0x06	Mode 1: Нет защиты памяти
+ATtiny12	0x06	0x04	Mode 2: Дальнейшее программирование запрещено
+ATtiny12	0x06	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATtiny13	0x03	0x03	Mode 1: Нет защиты памяти
+ATtiny13	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATtiny13	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATtiny15	0x06	0x06	Mode 1: Нет защиты памяти
+ATtiny15	0x06	0x04	Mode 2: Дальнейшее программирование запрещено
+ATtiny15	0x06	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATtiny22	0x06	0x06	Mode 1: Нет защиты памяти
+ATtiny22	0x06	0x04	Mode 2: Дальнейшее программирование запрещено
+ATtiny22	0x06	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATtiny2313	0x03	0x03	Mode 1: Нет защиты памяти
+ATtiny2313	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATtiny2313	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATtiny24	0x03	0x03	Mode 1: Нет защиты памяти
+ATtiny24	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATtiny24	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATtiny25	0x03	0x03	Mode 1: Нет защиты памяти
+ATtiny25	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATtiny25	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATtiny26	0x03	0x03	Mode 1: Нет защиты памяти
+ATtiny26	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATtiny26	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATtiny261	0x03	0x03	Mode 1: Нет защиты памяти
+ATtiny261	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATtiny261	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATtiny44	0x03	0x03	Mode 1: Нет защиты памяти
+ATtiny44	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATtiny44	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATtiny45	0x03	0x03	Mode 1: Нет защиты памяти
+ATtiny45	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATtiny45	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATtiny461	0x03	0x03	Mode 1: Нет защиты памяти
+ATtiny461	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATtiny461	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATtiny84	0x03	0x03	Mode 1: Нет защиты памяти
+ATtiny84	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATtiny84	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATtiny85	0x03	0x03	Mode 1: Нет защиты памяти
+ATtiny85	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATtiny85	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены
+ATtiny861	0x03	0x03	Mode 1: Нет защиты памяти
+ATtiny861	0x03	0x02	Mode 2: Дальнейшее программирование запрещено
+ATtiny861	0x03	0x00	Mode 3: Дальнейшее программирование и верификация запрещены

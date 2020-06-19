@@ -1,0 +1,16 @@
+Default.
+[]
+
+ATmega8.ATmega16.
+[Int. 1 MHz	d9e1
+Int. 2 MHz	d9e2
+Int. 4 MHz	d9e3
+Int. 8 MHz	d9e4
+Ext. Crys.	d9ff]
+
+ATmega32.
+[Int. 1 MHz	d9e1
+Int. 2 MHz	d9e2
+Int. 4 MHz	d9e3
+Int. 8 MHz	d9e4
+Ext. Crys.	d9ff]

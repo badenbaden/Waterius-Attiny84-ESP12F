@@ -1,0 +1,10 @@
+Default.
+[Default	x
+COM0	/dev/ttyS0
+COM1	/dev/ttyS1
+ACM0	/dev/ttyACM0
+ACM1	/dev/ttyACM1
+USB0	/dev/ttyUSB0
+USB1	/dev/ttyUSB1
+LPT0	/dev/parport0
+LPT1	/dev/parport1]

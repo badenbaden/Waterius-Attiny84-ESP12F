@@ -1,0 +1,20 @@
+Default.
+[Default	x
+COM1	com1
+COM2	com2
+COM3	com3
+COM4	com4
+LPT1	lpt1
+USB	usb]
+
+STK500 v2.
+[HID	avrdoper]
+
+AVRISP mkII.
+[USB	usb]
+
+USBasp.
+[Default	x]
+
+USBtiny.
+[Default	x]
