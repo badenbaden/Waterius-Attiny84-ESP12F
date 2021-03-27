@@ -12,14 +12,12 @@
 ### Текущий статус:
 - Бета версия.
 - Устройство [изготовлено](https://github.com/badenbaden/Waterius-Attiny84-ESP12F/tree/master/Foto), пишется прошивка.
-<<<<<<< HEAD
 - На текущий момент работают 4 счетчика, 2 датчика протечки. Отображение в облаке Ватериус только 2х счетчиков, датчики протечки также не отображаются.
 - Тестовые прошивки: [Вторая Бета](https://github.com/badenbaden/Waterius-Attiny84-ESP12F/tree/master/Firmware/SecondBeta)
 [Первая Бета](https://github.com/badenbaden/Waterius-Attiny84-ESP12F/tree/master/Firmware/FirstBeta)
 =======
 - На текущий момент работают 4 счетчика, 2 датчика протечки, отправляет оповещение при протечке (пока только одного канала). Отображение в облаке Ватериус только 2х счетчиков.
 - Тестовые прошивки [тут](https://github.com/badenbaden/Waterius-Attiny84-ESP12F/tree/master/Firmware/FirstBeta).
->>>>>>> ba8f2f2fa91508c51e8998256dd907def1cecc56
 
 ### Планируемые возможности:
 - 4 счётчика воды (вам не нужно знать, какого типа выход: "сухой контакт" или "НАМУР")
